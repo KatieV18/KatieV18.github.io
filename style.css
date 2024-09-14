@@ -1,0 +1,48 @@
+body > header{/*this is the header of the body, if i did just header it would do all the headers*/
+    background-color: #243119;
+    color: #ACECA1;
+}
+
+body >footer{
+    background-color: #243119;
+    color: #ACECA1;
+}
+
+#profile {
+    width: 100px;
+    height: 100px;
+}
+#coat {
+    width: 51.2vw;;
+    height: 34.3vh;
+}
+#jaws {
+    width: 60vw;
+}
+
+#jag{
+    width: 48vw;
+}
+
+#roar{
+    width: 23vw;
+}
+
+#babies{
+    width: 52vw;
+}
+
+body{
+    background-color: #96be8c;
+}
+
+#logo{
+    margin: 0px;
+    padding: 8px;
+    font-family: "Fredoka One", sans-serif;
+}
+
+#factheading{
+    text-align: center;
+}
+
